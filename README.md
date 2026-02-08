@@ -24,8 +24,8 @@ A sophisticated multi-agent system designed to answer questions by leveraging in
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/DevXSoni021/Multi_agent_langGraph_System.git
-cd Multi_agent_langGraph_System
+git clone https://github.com/soni0021/Multi_Agent_Langgraph.git
+cd Multi_Agent_Langgraph
 ```
 
 2. **Install dependencies using `uv` (recommended):**
