@@ -415,9 +415,6 @@ sequenceDiagram
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-**DevXSoni021**
 
 ## 🙏 Acknowledgments
 
@@ -428,10 +425,3 @@ Built with:
 - [ChromaDB](https://www.trychroma.com/) - Vector database
 - [Tavily](https://tavily.com/) - Web search API
 
-## 🔗 Repository
-
-**GitHub**: https://github.com/DevXSoni021/Multi_agent_langGraph_System
-
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
